@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+body {
+  background-color: #1f1e20;
+  color: #f9f8f8;
+  padding-bottom: 10vh;
+}
+
+.title {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+
+.name {
+  color: #c6ddf0;
+  font-size: 5rem;
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 5rem;
+}
+
+.dev {
+  font-size: 2rem;
+  padding: 0px;
+  margin: 0px;
+}
+
+.skills {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+
+.skill {
+  display: inline-block;
+  margin: auto;
+  border: 1rem;
+  padding: 1rem;
+  margin: 0.3rem;
+  border: 2px solid #ccc;
+}
+
+.skill_title {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  color: #9b5de5;
+  font-size: 3rem;
+}
+
+.projects {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+
+.project {
+  display: inline-block;
+  margin: auto;
+  border: 1rem;
+  padding: 1rem;
+  margin: 0.3rem;
+  border: 2px solid #ccc;
+  color: whitesmoke;
+}
+
+.project_title {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  color: #db4c40;
+  font-size: 3rem;
+}
+
+.contact {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+
+.contact_btn {
+  display: inline-block;
+  margin: auto;
+  border: 1rem;
+  padding: 1rem;
+  margin: 0.3rem;
+  border: 2px solid #ccc;
+  color: whitesmoke;
+}
+
+.contact_title {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  color: #ffe45e;
+  font-size: 3rem;
+}
+
+::selection {
+  background: rgba(255, 255, 255, 0.1);
+}
