@@ -25,6 +25,17 @@ body {
   margin: 0px;
 }
 
+.blog {
+  display: inline-block;
+  margin: auto;
+  border: 1rem;
+  padding: 1rem;
+  margin: 0.3rem;
+  border: 2px solid #ccc;
+  color: whitesmoke;
+}
+
+
 .skills {
   font-family: "Rubik", sans-serif;
   text-align: center;
